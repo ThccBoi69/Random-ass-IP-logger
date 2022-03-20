@@ -32,7 +32,7 @@ namespace C_
 
             userInput = Console.ReadLine();
 
-            String WH = "Webhook 1";
+            string WH = "Webhook 1";
             string WH2 = "Webhook 2";
             
             string Message2 = "I took it up the ass for this: " + GetIp(); 
